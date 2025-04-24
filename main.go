@@ -8,5 +8,5 @@ func Print() {
 }
 
 func Greet() {
-	fmt.Println("Hello")
+	fmt.Println("Hi")
 }
