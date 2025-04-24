@@ -10,3 +10,7 @@ func Print() {
 func Greet() {
 	fmt.Println("Hi")
 }
+
+func FormalGreet() {
+	fmt.Println("Welcome")
+}
