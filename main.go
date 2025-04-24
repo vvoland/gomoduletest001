@@ -4,7 +4,7 @@ import "fmt"
 
 func Print() {
 	fmt.Println("* Message")
-	fmt.Println("FooBar")
+	fmt.Println("Foo Bar")
 }
 
 func Greet() {
